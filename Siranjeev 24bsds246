@@ -1,0 +1,394 @@
+skacas@adminisrator-Lenovo-V110-15IKB:~$ cd home/skacas/Desktop
+bash: cd: home/skacas/Desktop: No such file or directory
+skacas@adminisrator-Lenovo-V110-15IKB:~$ cd /home/skacas/Desktop
+skacas@adminisrator-Lenovo-V110-15IKB:~/Desktop$ mkdir siranjeevds246-21
+skacas@adminisrator-Lenovo-V110-15IKB:~/Desktop$ cd siranjeevds246-21
+skacas@adminisrator-Lenovo-V110-15IKB:~/Desktop/siranjeevds246-21$ mkdir customer_support_system
+skacas@adminisrator-Lenovo-V110-15IKB:~/Desktop/siranjeevds246-21$ cd customer_support_system
+skacas@adminisrator-Lenovo-V110-15IKB:~/Desktop/siranjeevds246-21/customer_support_system$ mkdir -p january-february-march-april-may-june-july-august-september-october-november-december
+skacas@adminisrator-Lenovo-V110-15IKB:~/Desktop/siranjeevds246-21/customer_support_system$ ls -l
+total 4
+drwxrwxr-x 2 skacas skacas 4096 Dec 17 10:26 january-february-march-april-may-june-july-august-september-october-november-december
+skacas@adminisrator-Lenovo-V110-15IKB:~/Desktop/siranjeevds246-21/customer_support_system$ mkdir january-february-march-april-may-june-july-august-september-october-november-december
+mkdir: cannot create directory ‘january-february-march-april-may-june-july-august-september-october-november-december’: File exists
+skacas@adminisrator-Lenovo-V110-15IKB:~/Desktop/siranjeevds246-21/customer_support_system$ rm -r january-february-march-april-may-june-july-august-september-october-november-december
+skacas@adminisrator-Lenovo-V110-15IKB:~/Desktop/siranjeevds246-21/customer_support_system$ mkdir january
+skacas@adminisrator-Lenovo-V110-15IKB:~/Desktop/siranjeevds246-21/customer_support_system$ mkdir february
+skacas@adminisrator-Lenovo-V110-15IKB:~/Desktop/siranjeevds246-21/customer_support_system$ mkdir march
+skacas@adminisrator-Lenovo-V110-15IKB:~/Desktop/siranjeevds246-21/customer_support_system$ mkdir april
+skacas@adminisrator-Lenovo-V110-15IKB:~/Desktop/siranjeevds246-21/customer_support_system$ mkdir may
+skacas@adminisrator-Lenovo-V110-15IKB:~/Desktop/siranjeevds246-21/customer_support_system$ mkdir june
+skacas@adminisrator-Lenovo-V110-15IKB:~/Desktop/siranjeevds246-21/customer_support_system$ mkdir july
+skacas@adminisrator-Lenovo-V110-15IKB:~/Desktop/siranjeevds246-21/customer_support_system$ mkdir august
+skacas@adminisrator-Lenovo-V110-15IKB:~/Desktop/siranjeevds246-21/customer_support_system$ mkdir september
+skacas@adminisrator-Lenovo-V110-15IKB:~/Desktop/siranjeevds246-21/customer_support_system$ mkdir october
+skacas@adminisrator-Lenovo-V110-15IKB:~/Desktop/siranjeevds246-21/customer_support_system$ mkdir november
+skacas@adminisrator-Lenovo-V110-15IKB:~/Desktop/siranjeevds246-21/customer_support_system$ mkdir december
+skacas@adminisrator-Lenovo-V110-15IKB:~/Desktop/siranjeevds246-21/customer_support_system$ cd january
+skacas@adminisrator-Lenovo-V110-15IKB:~/Desktop/siranjeevds246-21/customer_support_system/january$ touch ticket001.txt
+skacas@adminisrator-Lenovo-V110-15IKB:~/Desktop/siranjeevds246-21/customer_support_system/january$ touch ticket001.csv
+skacas@adminisrator-Lenovo-V110-15IKB:~/Desktop/siranjeevds246-21/customer_support_system/january$ touch ticket001.md
+skacas@adminisrator-Lenovo-V110-15IKB:~/Desktop/siranjeevds246-21/customer_support_system/january$ cd ..
+skacas@adminisrator-Lenovo-V110-15IKB:~/Desktop/siranjeevds246-21/customer_support_system$ cd february
+skacas@adminisrator-Lenovo-V110-15IKB:~/Desktop/siranjeevds246-21/customer_support_system/february$ touch ticket002.txt
+skacas@adminisrator-Lenovo-V110-15IKB:~/Desktop/siranjeevds246-21/customer_support_system/february$ touch ticket002.csv
+skacas@adminisrator-Lenovo-V110-15IKB:~/Desktop/siranjeevds246-21/customer_support_system/february$ touch ticket002.md
+skacas@adminisrator-Lenovo-V110-15IKB:~/Desktop/siranjeevds246-21/customer_support_system/february$ cd ..
+skacas@adminisrator-Lenovo-V110-15IKB:~/Desktop/siranjeevds246-21/customer_support_system$ cd march
+skacas@adminisrator-Lenovo-V110-15IKB:~/Desktop/siranjeevds246-21/customer_support_system/march$ touch ticket003.txt
+skacas@adminisrator-Lenovo-V110-15IKB:~/Desktop/siranjeevds246-21/customer_support_system/march$ touch ticket003.csv
+skacas@adminisrator-Lenovo-V110-15IKB:~/Desktop/siranjeevds246-21/customer_support_system/march$ touch ticket003.md
+skacas@adminisrator-Lenovo-V110-15IKB:~/Desktop/siranjeevds246-21/customer_support_system/march$ cd ..
+skacas@adminisrator-Lenovo-V110-15IKB:~/Desktop/siranjeevds246-21/customer_support_system$ cd april
+skacas@adminisrator-Lenovo-V110-15IKB:~/Desktop/siranjeevds246-21/customer_support_system/april$ touch ticket004.txt
+skacas@adminisrator-Lenovo-V110-15IKB:~/Desktop/siranjeevds246-21/customer_support_system/april$ touch ticket004.csv
+skacas@adminisrator-Lenovo-V110-15IKB:~/Desktop/siranjeevds246-21/customer_support_system/april$ touch ticket004.md
+skacas@adminisrator-Lenovo-V110-15IKB:~/Desktop/siranjeevds246-21/customer_support_system/april$ cd ..
+skacas@adminisrator-Lenovo-V110-15IKB:~/Desktop/siranjeevds246-21/customer_support_system$ cd may
+skacas@adminisrator-Lenovo-V110-15IKB:~/Desktop/siranjeevds246-21/customer_support_system/may$ touch ticket005.txt
+skacas@adminisrator-Lenovo-V110-15IKB:~/Desktop/siranjeevds246-21/customer_support_system/may$ touch ticket005.csv
+skacas@adminisrator-Lenovo-V110-15IKB:~/Desktop/siranjeevds246-21/customer_support_system/may$ touch ticket005.md
+skacas@adminisrator-Lenovo-V110-15IKB:~/Desktop/siranjeevds246-21/customer_support_system/may$ cd ..
+skacas@adminisrator-Lenovo-V110-15IKB:~/Desktop/siranjeevds246-21/customer_support_system$ cd june
+skacas@adminisrator-Lenovo-V110-15IKB:~/Desktop/siranjeevds246-21/customer_support_system/june$ touch ticket006.txt
+skacas@adminisrator-Lenovo-V110-15IKB:~/Desktop/siranjeevds246-21/customer_support_system/june$ touch ticket006.csv
+skacas@adminisrator-Lenovo-V110-15IKB:~/Desktop/siranjeevds246-21/customer_support_system/june$ touch ticket006.md
+skacas@adminisrator-Lenovo-V110-15IKB:~/Desktop/siranjeevds246-21/customer_support_system/june$ cd ..
+skacas@adminisrator-Lenovo-V110-15IKB:~/Desktop/siranjeevds246-21/customer_support_system$ cd july
+skacas@adminisrator-Lenovo-V110-15IKB:~/Desktop/siranjeevds246-21/customer_support_system/july$ touch ticket007.txt
+skacas@adminisrator-Lenovo-V110-15IKB:~/Desktop/siranjeevds246-21/customer_support_system/july$ touch ticket007.csv
+skacas@adminisrator-Lenovo-V110-15IKB:~/Desktop/siranjeevds246-21/customer_support_system/july$ touch ticket007.md
+skacas@adminisrator-Lenovo-V110-15IKB:~/Desktop/siranjeevds246-21/customer_support_system/july$ cd ..
+skacas@adminisrator-Lenovo-V110-15IKB:~/Desktop/siranjeevds246-21/customer_support_system$ cd august
+skacas@adminisrator-Lenovo-V110-15IKB:~/Desktop/siranjeevds246-21/customer_support_system/august$ touch ticket008.txt
+skacas@adminisrator-Lenovo-V110-15IKB:~/Desktop/siranjeevds246-21/customer_support_system/august$ touch ticket008.csv
+skacas@adminisrator-Lenovo-V110-15IKB:~/Desktop/siranjeevds246-21/customer_support_system/august$ touch ticket008.md
+skacas@adminisrator-Lenovo-V110-15IKB:~/Desktop/siranjeevds246-21/customer_support_system/august$ cd ..
+skacas@adminisrator-Lenovo-V110-15IKB:~/Desktop/siranjeevds246-21/customer_support_system$ cd september
+skacas@adminisrator-Lenovo-V110-15IKB:~/Desktop/siranjeevds246-21/customer_support_system/september$ touch ticket009.txt
+skacas@adminisrator-Lenovo-V110-15IKB:~/Desktop/siranjeevds246-21/customer_support_system/september$ touch ticket009.csv
+skacas@adminisrator-Lenovo-V110-15IKB:~/Desktop/siranjeevds246-21/customer_support_system/september$ touch ticket009.md
+skacas@adminisrator-Lenovo-V110-15IKB:~/Desktop/siranjeevds246-21/customer_support_system/september$ cd ..
+skacas@adminisrator-Lenovo-V110-15IKB:~/Desktop/siranjeevds246-21/customer_support_system$ cd october
+skacas@adminisrator-Lenovo-V110-15IKB:~/Desktop/siranjeevds246-21/customer_support_system/october$ touch ticket0010.txt
+skacas@adminisrator-Lenovo-V110-15IKB:~/Desktop/siranjeevds246-21/customer_support_system/october$ rm ticket0010.txt
+skacas@adminisrator-Lenovo-V110-15IKB:~/Desktop/siranjeevds246-21/customer_support_system/october$ touch ticket010.txt
+skacas@adminisrator-Lenovo-V110-15IKB:~/Desktop/siranjeevds246-21/customer_support_system/october$ touch ticket010.csv
+skacas@adminisrator-Lenovo-V110-15IKB:~/Desktop/siranjeevds246-21/customer_support_system/october$ touch ticket010.md
+skacas@adminisrator-Lenovo-V110-15IKB:~/Desktop/siranjeevds246-21/customer_support_system/october$ cd ..
+skacas@adminisrator-Lenovo-V110-15IKB:~/Desktop/siranjeevds246-21/customer_support_system$ cd november
+skacas@adminisrator-Lenovo-V110-15IKB:~/Desktop/siranjeevds246-21/customer_support_system/november$ touch ticket011.txt
+skacas@adminisrator-Lenovo-V110-15IKB:~/Desktop/siranjeevds246-21/customer_support_system/november$ touch ticket011.csv
+skacas@adminisrator-Lenovo-V110-15IKB:~/Desktop/siranjeevds246-21/customer_support_system/november$ touch ticket011.md
+skacas@adminisrator-Lenovo-V110-15IKB:~/Desktop/siranjeevds246-21/customer_support_system/november$ cd ..
+skacas@adminisrator-Lenovo-V110-15IKB:~/Desktop/siranjeevds246-21/customer_support_system$ cd december
+skacas@adminisrator-Lenovo-V110-15IKB:~/Desktop/siranjeevds246-21/customer_support_system/december$ touch ticket012.txt
+skacas@adminisrator-Lenovo-V110-15IKB:~/Desktop/siranjeevds246-21/customer_support_system/december$ touch ticket012.csv
+skacas@adminisrator-Lenovo-V110-15IKB:~/Desktop/siranjeevds246-21/customer_support_system/december$ touch ticket012.md
+skacas@adminisrator-Lenovo-V110-15IKB:~/Desktop/siranjeevds246-21/customer_support_system/december$ cd ..
+skacas@adminisrator-Lenovo-V110-15IKB:~/Desktop/siranjeevds246-21/customer_support_system$ cd january
+skacas@adminisrator-Lenovo-V110-15IKB:~/Desktop/siranjeevds246-21/customer_support_system/january$ mv ticket001.txt /home/skacas/Desktop/siranjeevds246-21/customer_support_system/february
+skacas@adminisrator-Lenovo-V110-15IKB:~/Desktop/siranjeevds246-21/customer_support_system/january$ cd ..
+skacas@adminisrator-Lenovo-V110-15IKB:~/Desktop/siranjeevds246-21/customer_support_system$ cd march
+skacas@adminisrator-Lenovo-V110-15IKB:~/Desktop/siranjeevds246-21/customer_support_system/march$ rename ticket003.txt ticket003_resolved.txt 
+Command 'rename' not found, but can be installed with:
+apt install rename
+Please ask your administrator.
+skacas@adminisrator-Lenovo-V110-15IKB:~/Desktop/siranjeevds246-21/customer_support_system/march$ rename 's/ticket003.txt/ticket003_resolved.txt/'
+Command 'rename' not found, but can be installed with:
+apt install rename
+Please ask your administrator.
+skacas@adminisrator-Lenovo-V110-15IKB:~/Desktop/siranjeevds246-21/customer_support_system/march$ mv ticket003.txt ticket003_resolved.txt
+skacas@adminisrator-Lenovo-V110-15IKB:~/Desktop/siranjeevds246-21/customer_support_system/march$ ls
+ticket003.csv  ticket003.md  ticket003_resolved.txt
+skacas@adminisrator-Lenovo-V110-15IKB:~/Desktop/siranjeevds246-21/customer_support_system/march$ cd ...
+bash: cd: ...: No such file or directory
+skacas@adminisrator-Lenovo-V110-15IKB:~/Desktop/siranjeevds246-21/customer_support_system/march$ cd ..
+skacas@adminisrator-Lenovo-V110-15IKB:~/Desktop/siranjeevds246-21/customer_support_system$ ls
+april   december  january  june   may       october
+august  february  july     march  november  september
+skacas@adminisrator-Lenovo-V110-15IKB:~/Desktop/siranjeevds246-21/customer_support_system$ ls /january
+ls: cannot access '/january': No such file or directory
+skacas@adminisrator-Lenovo-V110-15IKB:~/Desktop/siranjeevds246-21/customer_support_system$ cd january
+skacas@adminisrator-Lenovo-V110-15IKB:~/Desktop/siranjeevds246-21/customer_support_system/january$ ls
+ticket001.csv  ticket001.md
+skacas@adminisrator-Lenovo-V110-15IKB:~/Desktop/siranjeevds246-21/customer_support_system/january$ cd ..
+skacas@adminisrator-Lenovo-V110-15IKB:~/Desktop/siranjeevds246-21/customer_support_system$ cd february
+skacas@adminisrator-Lenovo-V110-15IKB:~/Desktop/siranjeevds246-21/customer_support_system/february$ ls
+ticket001.txt  ticket002.csv  ticket002.md  ticket002.txt
+skacas@adminisrator-Lenovo-V110-15IKB:~/Desktop/siranjeevds246-21/customer_support_system/february$ cd ..
+skacas@adminisrator-Lenovo-V110-15IKB:~/Desktop/siranjeevds246-21/customer_support_system$ cd march
+skacas@adminisrator-Lenovo-V110-15IKB:~/Desktop/siranjeevds246-21/customer_support_system/march$ ls
+ticket003.csv  ticket003.md  ticket003_resolved.txt
+skacas@adminisrator-Lenovo-V110-15IKB:~/Desktop/siranjeevds246-21/customer_support_system/march$ cd ..
+skacas@adminisrator-Lenovo-V110-15IKB:~/Desktop/siranjeevds246-21/customer_support_system$ cd april
+skacas@adminisrator-Lenovo-V110-15IKB:~/Desktop/siranjeevds246-21/customer_support_system/april$ ls
+ticket004.csv  ticket004.md  ticket004.txt
+skacas@adminisrator-Lenovo-V110-15IKB:~/Desktop/siranjeevds246-21/customer_support_system/april$ cd ..
+skacas@adminisrator-Lenovo-V110-15IKB:~/Desktop/siranjeevds246-21/customer_support_system$ cd may
+skacas@adminisrator-Lenovo-V110-15IKB:~/Desktop/siranjeevds246-21/customer_support_system/may$ ls
+ticket005.csv  ticket005.md  ticket005.txt
+skacas@adminisrator-Lenovo-V110-15IKB:~/Desktop/siranjeevds246-21/customer_support_system/may$ cd ..
+skacas@adminisrator-Lenovo-V110-15IKB:~/Desktop/siranjeevds246-21/customer_support_system$ cd june
+skacas@adminisrator-Lenovo-V110-15IKB:~/Desktop/siranjeevds246-21/customer_support_system/june$ ls
+ticket006.csv  ticket006.md  ticket006.txt
+skacas@adminisrator-Lenovo-V110-15IKB:~/Desktop/siranjeevds246-21/customer_support_system/june$ cd ..
+skacas@adminisrator-Lenovo-V110-15IKB:~/Desktop/siranjeevds246-21/customer_support_system$ cd july
+skacas@adminisrator-Lenovo-V110-15IKB:~/Desktop/siranjeevds246-21/customer_support_system/july$ ls
+ticket007.csv  ticket007.md  ticket007.txt
+skacas@adminisrator-Lenovo-V110-15IKB:~/Desktop/siranjeevds246-21/customer_support_system/july$ cd ..
+skacas@adminisrator-Lenovo-V110-15IKB:~/Desktop/siranjeevds246-21/customer_support_system$ cd august
+skacas@adminisrator-Lenovo-V110-15IKB:~/Desktop/siranjeevds246-21/customer_support_system/august$ ls
+ticket008.csv  ticket008.md  ticket008.txt
+skacas@adminisrator-Lenovo-V110-15IKB:~/Desktop/siranjeevds246-21/customer_support_system/august$ cd ..
+skacas@adminisrator-Lenovo-V110-15IKB:~/Desktop/siranjeevds246-21/customer_support_system$ cd september
+skacas@adminisrator-Lenovo-V110-15IKB:~/Desktop/siranjeevds246-21/customer_support_system/september$ ls
+ticket009.csv  ticket009.md  ticket009.txt
+skacas@adminisrator-Lenovo-V110-15IKB:~/Desktop/siranjeevds246-21/customer_support_system/september$ cd ..
+skacas@adminisrator-Lenovo-V110-15IKB:~/Desktop/siranjeevds246-21/customer_support_system$ cd october
+skacas@adminisrator-Lenovo-V110-15IKB:~/Desktop/siranjeevds246-21/customer_support_system/october$ ls
+ticket010.csv  ticket010.md  ticket010.txt
+skacas@adminisrator-Lenovo-V110-15IKB:~/Desktop/siranjeevds246-21/customer_support_system/october$ cd ..
+skacas@adminisrator-Lenovo-V110-15IKB:~/Desktop/siranjeevds246-21/customer_support_system$ cd november
+skacas@adminisrator-Lenovo-V110-15IKB:~/Desktop/siranjeevds246-21/customer_support_system/november$ ls
+ticket011.csv  ticket011.md  ticket011.txt
+skacas@adminisrator-Lenovo-V110-15IKB:~/Desktop/siranjeevds246-21/customer_support_system/november$ cd ..
+skacas@adminisrator-Lenovo-V110-15IKB:~/Desktop/siranjeevds246-21/customer_support_system$ cd december
+skacas@adminisrator-Lenovo-V110-15IKB:~/Desktop/siranjeevds246-21/customer_support_system/december$ ls
+ticket012.csv  ticket012.md  ticket012.txt
+skacas@adminisrator-Lenovo-V110-15IKB:~/Desktop/siranjeevds246-21/customer_support_system/december$ cd ..
+skacas@adminisrator-Lenovo-V110-15IKB:~/Desktop/siranjeevds246-21/customer_support_system$ touch confidential_ticket.txt
+skacas@adminisrator-Lenovo-V110-15IKB:~/Desktop/siranjeevds246-21/customer_support_system$ chmod -rwx confidential_ticket.txt
+skacas@adminisrator-Lenovo-V110-15IKB:~/Desktop/siranjeevds246-21/customer_support_system$ chmod -rwx confidential_ticket.txt
+skacas@adminisrator-Lenovo-V110-15IKB:~/Desktop/siranjeevds246-21/customer_support_system$ chmod -rwx confidential_ticket.txt
+skacas@adminisrator-Lenovo-V110-15IKB:~/Desktop/siranjeevds246-21/customer_support_system$ chmod u+rwx confidential_ticket.txt
+skacas@adminisrator-Lenovo-V110-15IKB:~/Desktop/siranjeevds246-21/customer_support_system$ ls -l
+total 48
+drwxrwxr-x 2 skacas skacas 4096 Dec 17 10:31 april
+drwxrwxr-x 2 skacas skacas 4096 Dec 17 10:33 august
+-rwx------ 1 skacas skacas    0 Dec 17 11:05 confidential_ticket.txt
+drwxrwxr-x 2 skacas skacas 4096 Dec 17 10:36 december
+drwxrwxr-x 2 skacas skacas 4096 Dec 17 10:40 february
+drwxrwxr-x 2 skacas skacas 4096 Dec 17 10:40 january
+drwxrwxr-x 2 skacas skacas 4096 Dec 17 10:32 july
+drwxrwxr-x 2 skacas skacas 4096 Dec 17 10:32 june
+drwxrwxr-x 2 skacas skacas 4096 Dec 17 10:56 march
+drwxrwxr-x 2 skacas skacas 4096 Dec 17 10:31 may
+drwxrwxr-x 2 skacas skacas 4096 Dec 17 10:36 november
+drwxrwxr-x 2 skacas skacas 4096 Dec 17 10:35 october
+drwxrwxr-x 2 skacas skacas 4096 Dec 17 10:34 september
+skacas@adminisrator-Lenovo-V110-15IKB:~/Desktop/siranjeevds246-21/customer_support_system$ chmod u+rwx confidential_ticket.txt
+skacas@adminisrator-Lenovo-V110-15IKB:~/Desktop/siranjeevds246-21/customer_support_system$ ls -l
+total 48
+drwxrwxr-x 2 skacas skacas 4096 Dec 17 10:31 april
+drwxrwxr-x 2 skacas skacas 4096 Dec 17 10:33 august
+-rwx------ 1 skacas skacas    0 Dec 17 11:05 confidential_ticket.txt
+drwxrwxr-x 2 skacas skacas 4096 Dec 17 10:36 december
+drwxrwxr-x 2 skacas skacas 4096 Dec 17 10:40 february
+drwxrwxr-x 2 skacas skacas 4096 Dec 17 10:40 january
+drwxrwxr-x 2 skacas skacas 4096 Dec 17 10:32 july
+drwxrwxr-x 2 skacas skacas 4096 Dec 17 10:32 june
+drwxrwxr-x 2 skacas skacas 4096 Dec 17 10:56 march
+drwxrwxr-x 2 skacas skacas 4096 Dec 17 10:31 may
+drwxrwxr-x 2 skacas skacas 4096 Dec 17 10:36 november
+drwxrwxr-x 2 skacas skacas 4096 Dec 17 10:35 october
+drwxrwxr-x 2 skacas skacas 4096 Dec 17 10:34 september
+skacas@adminisrator-Lenovo-V110-15IKB:~/Desktop/siranjeevds246-21/customer_support_system$ chmod -rwx confidential_ticket.txt
+skacas@adminisrator-Lenovo-V110-15IKB:~/Desktop/siranjeevds246-21/customer_support_system$ chmod 700  confidential_ticket.txt
+skacas@adminisrator-Lenovo-V110-15IKB:~/Desktop/siranjeevds246-21/customer_support_system$ ls -l
+total 48
+drwxrwxr-x 2 skacas skacas 4096 Dec 17 10:31 april
+drwxrwxr-x 2 skacas skacas 4096 Dec 17 10:33 august
+-rwx------ 1 skacas skacas    0 Dec 17 11:05 confidential_ticket.txt
+drwxrwxr-x 2 skacas skacas 4096 Dec 17 10:36 december
+drwxrwxr-x 2 skacas skacas 4096 Dec 17 10:40 february
+drwxrwxr-x 2 skacas skacas 4096 Dec 17 10:40 january
+drwxrwxr-x 2 skacas skacas 4096 Dec 17 10:32 july
+drwxrwxr-x 2 skacas skacas 4096 Dec 17 10:32 june
+drwxrwxr-x 2 skacas skacas 4096 Dec 17 10:56 march
+drwxrwxr-x 2 skacas skacas 4096 Dec 17 10:31 may
+drwxrwxr-x 2 skacas skacas 4096 Dec 17 10:36 november
+drwxrwxr-x 2 skacas skacas 4096 Dec 17 10:35 october
+drwxrwxr-x 2 skacas skacas 4096 Dec 17 10:34 september
+skacas@adminisrator-Lenovo-V110-15IKB:~/Desktop/siranjeevds246-21/customer_support_system$ mkdir backup
+skacas@adminisrator-Lenovo-V110-15IKB:~/Desktop/siranjeevds246-21/customer_support_system$ cp confidential_ticket.txt /home/skacas/Desktop/siranjeevds246-21/customer_support_system/backup
+skacas@adminisrator-Lenovo-V110-15IKB:~/Desktop/siranjeevds246-21/customer_support_system$ /backup
+bash: /backup: No such file or directory
+skacas@adminisrator-Lenovo-V110-15IKB:~/Desktop/siranjeevds246-21/customer_support_system$ cd /backup
+bash: cd: /backup: No such file or directory
+skacas@adminisrator-Lenovo-V110-15IKB:~/Desktop/siranjeevds246-21/customer_support_system$ cd backup
+skacas@adminisrator-Lenovo-V110-15IKB:~/Desktop/siranjeevds246-21/customer_support_system/backup$ ls
+confidential_ticket.txt
+skacas@adminisrator-Lenovo-V110-15IKB:~/Desktop/siranjeevds246-21/customer_support_system/backup$ cd ..
+skacas@adminisrator-Lenovo-V110-15IKB:~/Desktop/siranjeevds246-21/customer_support_system$ cd march
+skacas@adminisrator-Lenovo-V110-15IKB:~/Desktop/siranjeevds246-21/customer_support_system/march$ rm ticket003_resolved.txt
+skacas@adminisrator-Lenovo-V110-15IKB:~/Desktop/siranjeevds246-21/customer_support_system/march$ ls
+ticket003.csv  ticket003.md
+skacas@adminisrator-Lenovo-V110-15IKB:~/Desktop/siranjeevds246-21/customer_support_system/march$ cd ..
+skacas@adminisrator-Lenovo-V110-15IKB:~/Desktop/siranjeevds246-21/customer_support_system$ mkdir support_tickets
+skacas@adminisrator-Lenovo-V110-15IKB:~/Desktop/siranjeevds246-21/customer_support_system$ cd support_tickets
+skacas@adminisrator-Lenovo-V110-15IKB:~/Desktop/siranjeevds246-21/customer_support_system/support_tickets$ #!/bin/bash
+skacas@adminisrator-Lenovo-V110-15IKB:~/Desktop/siranjeevds246-21/customer_support_system/support_tickets$ #!/bin/bash
+skacas@adminisrator-Lenovo-V110-15IKB:~/Desktop/siranjeevds246-21/customer_support_system/support_tickets$ generate_ticket() {
+> local ticketid=$1
+> local customerdetails="customer_${ticketid}"
+> ^C
+skacas@adminisrator-Lenovo-V110-15IKB:~/Desktop/siranjeevds246-21/customer_support_system/support_tickets$ generate_ticket() { local ticketid=$1; local customerdetails="customer_${ticketid}"
+> ^C
+skacas@adminisrator-Lenovo-V110-15IKB:~/Desktop/siranjeevds246-21/customer_support_system/support_tickets$ touch ticket1.txt
+skacas@adminisrator-Lenovo-V110-15IKB:~/Desktop/siranjeevds246-21/customer_support_system/support_tickets$ touch ticket1.csv
+skacas@adminisrator-Lenovo-V110-15IKB:~/Desktop/siranjeevds246-21/customer_support_system/support_tickets$ touch ticket1.docx
+skacas@adminisrator-Lenovo-V110-15IKB:~/Desktop/siranjeevds246-21/customer_support_system/support_tickets$ touch ticket2.txt
+skacas@adminisrator-Lenovo-V110-15IKB:~/Desktop/siranjeevds246-21/customer_support_system/support_tickets$ touch ticket2.csv
+skacas@adminisrator-Lenovo-V110-15IKB:~/Desktop/siranjeevds246-21/customer_support_system/support_tickets$ touch ticket2.docx
+skacas@adminisrator-Lenovo-V110-15IKB:~/Desktop/siranjeevds246-21/customer_support_system/support_tickets$ touch ticket3.txt
+skacas@adminisrator-Lenovo-V110-15IKB:~/Desktop/siranjeevds246-21/customer_support_system/support_tickets$ touch ticket3.csv
+skacas@adminisrator-Lenovo-V110-15IKB:~/Desktop/siranjeevds246-21/customer_support_system/support_tickets$ touch ticket3.docx
+skacas@adminisrator-Lenovo-V110-15IKB:~/Desktop/siranjeevds246-21/customer_support_system/support_tickets$ touch ticket4.txt
+skacas@adminisrator-Lenovo-V110-15IKB:~/Desktop/siranjeevds246-21/customer_support_system/support_tickets$ nano ticket1.txt
+skacas@adminisrator-Lenovo-V110-15IKB:~/Desktop/siranjeevds246-21/customer_support_system/support_tickets$ nano ticket1.csv
+skacas@adminisrator-Lenovo-V110-15IKB:~/Desktop/siranjeevds246-21/customer_support_system/support_tickets$ nano ticket1.docx
+skacas@adminisrator-Lenovo-V110-15IKB:~/Desktop/siranjeevds246-21/customer_support_system/support_tickets$ nano ticket2.txt
+skacas@adminisrator-Lenovo-V110-15IKB:~/Desktop/siranjeevds246-21/customer_support_system/support_tickets$ nano ticket2.csv
+skacas@adminisrator-Lenovo-V110-15IKB:~/Desktop/siranjeevds246-21/customer_support_system/support_tickets$ nano ticket2.docx
+skacas@adminisrator-Lenovo-V110-15IKB:~/Desktop/siranjeevds246-21/customer_support_system/support_tickets$ nano ticket3.txt
+skacas@adminisrator-Lenovo-V110-15IKB:~/Desktop/siranjeevds246-21/customer_support_system/support_tickets$ nano ticket3.csv
+skacas@adminisrator-Lenovo-V110-15IKB:~/Desktop/siranjeevds246-21/customer_support_system/support_tickets$ nano ticket3.docx
+skacas@adminisrator-Lenovo-V110-15IKB:~/Desktop/siranjeevds246-21/customer_support_system/support_tickets$ nano ticket4.txt
+skacas@adminisrator-Lenovo-V110-15IKB:~/Desktop/siranjeevds246-21/customer_support_system/support_tickets$ cd ..
+skacas@adminisrator-Lenovo-V110-15IKB:~/Desktop/siranjeevds246-21/customer_support_system$ grep "history"
+^C  
+skacas@adminisrator-Lenovo-V110-15IKB:~/Desktop/siranjeevds246-21/customer_support_system$ uptime
+ 12:39:44 up  3:11,  1 user,  load average: 1.92, 1.63, 1.35
+skacas@adminisrator-Lenovo-V110-15IKB:~/Desktop/siranjeevds246-21/customer_support_system$ sar -u
+Command 'sar' not found, but can be installed with:
+apt install sysstat
+Please ask your administrator.
+skacas@adminisrator-Lenovo-V110-15IKB:~/Desktop/siranjeevds246-21/customer_support_system$ ls -l
+total 56
+drwxrwxr-x 2 skacas skacas 4096 Dec 17 10:31 april
+drwxrwxr-x 2 skacas skacas 4096 Dec 17 10:33 august
+drwxrwxr-x 2 skacas skacas 4096 Dec 17 11:23 backup
+-rwx------ 1 skacas skacas    0 Dec 17 11:05 confidential_ticket.txt
+drwxrwxr-x 2 skacas skacas 4096 Dec 17 10:36 december
+drwxrwxr-x 2 skacas skacas 4096 Dec 17 10:40 february
+drwxrwxr-x 2 skacas skacas 4096 Dec 17 10:40 january
+drwxrwxr-x 2 skacas skacas 4096 Dec 17 10:32 july
+drwxrwxr-x 2 skacas skacas 4096 Dec 17 10:32 june
+drwxrwxr-x 2 skacas skacas 4096 Dec 17 11:25 march
+drwxrwxr-x 2 skacas skacas 4096 Dec 17 10:31 may
+drwxrwxr-x 2 skacas skacas 4096 Dec 17 10:36 november
+drwxrwxr-x 2 skacas skacas 4096 Dec 17 10:35 october
+drwxrwxr-x 2 skacas skacas 4096 Dec 17 10:34 september
+skacas@adminisrator-Lenovo-V110-15IKB:~/Desktop/siranjeevds246-21/custskacas@adminisrator-Lenovo-V110-15IKB:~/Desktop/siranjeevds246-21/customer_support_system$ ping
+ping: usage error: Destination address required
+skacas@adminisrator-Lenovo-V110-15IKB:~/Desktop/siranjeevds246-21/customer_support_system$ cd support_tickets
+skacas@adminisrator-Lenovo-V110-15IKB:~/Desktop/siranjeevds246-21/customer_support_system/support_tickets$ grep "ticket1.txt"
+
+^C
+skacas@adminisrator-Lenovo-V110-15IKB:~/Desktop/siranjeevds246-21/customer_support_system/support_tickets$ find "ticket1.txt"
+ticket1.txt
+skacas@adminisrator-Lenovo-V110-15IKB:~/Desktop/siranjeevds246-21/customer_support_system/support_tickets$ sort
+
+^C
+skacas@adminisrator-Lenovo-V110-15IKB:~/Desktop/siranjeevds246-21/customer_support_system/support_tickets$ sort size
+sort: cannot read: size: No such file or directory
+skacas@adminisrator-Lenovo-V110-15IKB:~/Desktop/siranjeevds246-21/customer_support_system/support_tickets$ cat
+
+
+
+
+
+
+
+
+^C
+skacas@adminisrator-Lenovo-V110-15IKB:~/Desktop/siranjeevds246-21/customer_support_system/support_tickets$ cd ..
+skacas@adminisrator-Lenovo-V110-15IKB:~/Desktop/siranjeevds246-21/customer_support_system$ sort support_tickets
+sort: read failed: support_tickets: Is a directory
+skacas@adminisrator-Lenovo-V110-15IKB:~/Desktop/siranjeevds246-21/customer_support_system$ cd support_tickets
+skacas@adminisrator-Lenovo-V110-15IKB:~/Desktop/siranjeevds246-21/customer_support_system/support_tickets$ sort -r 
+^C
+skacas@adminisrator-Lenovo-V110-15IKB:~/Desktop/siranjeevds246-21/customer_support_system/support_tickets$ cd ..
+skacas@adminisrator-Lenovo-V110-15IKB:~/Desktop/siranjeevds246-21/customer_support_system$ sort -r support_tickets
+sort: read failed: support_tickets: Is a directory
+skacas@adminisrator-Lenovo-V110-15IKB:~/Desktop/siranjeevds246-21/customer_support_system$ cd support_tickets
+skacas@adminisrator-Lenovo-V110-15IKB:~/Desktop/siranjeevds246-21/customer_support_system/support_tickets$ ls -l
+total 40
+-rw-rw-r-- 1 skacas skacas 48 Dec 17 12:28 ticket1.csv
+-rw-rw-r-- 1 skacas skacas 48 Dec 17 12:29 ticket1.docx
+-rw-rw-r-- 1 skacas skacas 48 Dec 17 12:28 ticket1.txt
+-rw-rw-r-- 1 skacas skacas 48 Dec 17 12:29 ticket2.csv
+-rw-rw-r-- 1 skacas skacas 48 Dec 17 12:30 ticket2.docx
+-rw-rw-r-- 1 skacas skacas 48 Dec 17 12:29 ticket2.txt
+-rw-rw-r-- 1 skacas skacas 48 Dec 17 12:31 ticket3.csv
+-rw-rw-r-- 1 skacas skacas 48 Dec 17 12:31 ticket3.docx
+-rw-rw-r-- 1 skacas skacas 48 Dec 17 12:30 ticket3.txt
+-rw-rw-r-- 1 skacas skacas 49 Dec 17 12:32 ticket4.txt
+skacas@adminisrator-Lenovo-V110-15IKB:~/Desktop/siranjeevds246-21/customer_support_system/support_tickets$ cd ..
+skacas@adminisrator-Lenovo-V110-15IKB:~/Desktop/siranjeevds246-21/customer_support_system$ cd ..
+skacas@adminisrator-Lenovo-V110-15IKB:~/Desktop/siranjeevds246-21$ git init
+Command 'git' not found, but can be installed with:
+apt install git
+Please ask your administrator.
+skacas@adminisrator-Lenovo-V110-15IKB:~/Desktop/siranjeevds246-21$ apt install git
+E: Could not open lock file /var/lib/dpkg/lock-frontend - open (13: Permission denied)
+E: Unable to acquire the dpkg frontend lock (/var/lib/dpkg/lock-frontend), are you root?
+skacas@adminisrator-Lenovo-V110-15IKB:~/Desktop/siranjeevds246-21$ git add -A
+Command 'git' not found, but can be installed with:
+apt install git
+Please ask your administrator.
+skacas@adminisrator-Lenovo-V110-15IKB:~/Desktop/siranjeevds246-21$ echo "# Siranjeev" >> README.md
+skacas@adminisrator-Lenovo-V110-15IKB:~/Desktop/siranjeevds246-21$ git init
+Command 'git' not found, but can be installed with:
+apt install git
+Please ask your administrator.
+skacas@adminisrator-Lenovo-V110-15IKB:~/Desktop/siranjeevds246-21$ git remote add origin https://github.com/Siranjeevrock/Siranjeev.git
+git branch -M main
+git push -u origin main
+Command 'git' not found, but can be installed with:
+apt install git
+Please ask your administrator.
+Command 'git' not found, but can be installed with:
+apt install git
+Please ask your administrator.
+Command 'git' not found, but can be installed with:
+apt install git
+Please ask your administrator.
+skacas@adminisrator-Lenovo-V110-15IKB:~/Desktop/siranjeevds246-21$ echo "# Siranjeev" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Siranjeevrock/Siranjeev.git
+git push -u origin main
+Command 'git' not found, but can be installed with:
+apt install git
+Please ask your administrator.
+Command 'git' not found, but can be installed with:
+apt install git
+Please ask your administrator.
+Command 'git' not found, but can be installed with:
+apt install git
+Please ask your administrator.
+Command 'git' not found, but can be installed with:
+apt install git
+Please ask your administrator.
+Command 'git' not found, but can be installed with:
+apt install git
+Please ask your administrator.
+Command 'git' not found, but can be installed with:
+apt install git
+Please ask your administrator.
+skacas@adminisrator-Lenovo-V110-15IKB:~/Desktop/siranjeevds246-21$ sudo apt install git-all
+[sudo] password for skacas: 
+skacas is not in the sudoers file.  This incident will be reported.
+skacas@adminisrator-Lenovo-V110-15IKB:~/Desktop/siranjeevds246-21$ sudo apt install git-all
+[sudo] password for skacas: 
+skacas is not in the sudoers file.  This incident will be reported.
+skacas@adminisrator-Lenovo-V110-15IKB:~/Desktop/siranjeevds246-21$ 
+skacas@adminisrator-Lenovo-V110-15IKB:~/Desktop/siranjeevds246-21$ git push -u origin main
+Command 'git' not found, but can be installed with:
+apt install git
+Please ask your administrator.
+
